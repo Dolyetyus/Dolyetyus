@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=Dolyetyus&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+<img src="https://profile-counter.glitch.me/Dolyetyus/count.svg">
 
 <!--
 **Dolyetyus/Dolyetyus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

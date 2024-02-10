@@ -4,7 +4,7 @@
     <a href="mailto:dolyetyus@tuta.io"><img alt="Tutanota" src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white"></a>
 </p>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4 align="center">Visitor count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Dolyetyus}/count.svg" alt="Dolyetyus :: Visitor's Count" /></p>
 

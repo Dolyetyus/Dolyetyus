@@ -1,4 +1,5 @@
 <img src="https://profile-counter.glitch.me/Dolyetyus/count.svg">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dolyetyus&show_icons=true" alt="Dolyetyus" /></p>
 
 <!--
 **Dolyetyus/Dolyetyus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

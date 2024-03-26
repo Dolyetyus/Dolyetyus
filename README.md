@@ -4,15 +4,15 @@
     <a href="mailto:dolyetyus@tuta.io"><img alt="Tutanota" src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white"></a>
 </p>
 
-<h4 align="center">Visitor count :eyes:</h4>
+<h4 align="center">Visitor count</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Dolyetyus}/count.svg" alt="Dolyetyus :: Visitor's Count" /></p>
 
-<h4 align="center">Top public repo languages :tongue:</h4>
+<h4 align="center">Top public repo languages</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dolyetyus&langs_count=10&theme=tokyonight&layout=compact" alt="Dolyetyus :: Top Langs" /></p>
 
-<h4 align="center">Top private repo languages 👨‍💻</h4>
+<h4 align="center">Top private repo languages</h4>
 
 <p align="center">
     <img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white">

@@ -8,6 +8,9 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Dolyetyus}/count.svg" alt="Dolyetyus :: Visitor's Count" /></p>
 
+<h4 align="center">Leetcode grind</h4>
+![LeetCode Stats](https://leetcard.jacoblin.cool/dolyetyus?theme=dark&font=Archivo&ext=activity)
+
 <h4 align="center">Top public repo languages</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dolyetyus&langs_count=10&theme=tokyonight&layout=compact" alt="Dolyetyus :: Top Langs" /></p>

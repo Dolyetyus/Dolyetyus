@@ -9,7 +9,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Dolyetyus}/count.svg" alt="Dolyetyus :: Visitor's Count" /></p>
 
 <h4 align="center">Leetcode grind</h4>
-<p align="center"><img src="https://leetcard.jacoblin.cool/dolyetyus?theme=dark&font=Archivo" alt="Dolyetyus :: Leetcode" width="300px" /></p>
+<p align="center"><img src="https://leetcard.jacoblin.cool/dolyetyus?theme=dark&font=Archivo" alt="Dolyetyus :: Leetcode" width="320px" /></p>
 
 <h4 align="center">Top public repo languages</h4>
 

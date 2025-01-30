@@ -1,4 +1,3 @@
-<h3 align="center">Contact me 📬</h4>
 <p align="center">
     <a href="mailto:doliatius@proton.me"><img alt="ProtonMail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
     <a href="mailto:dolyetyus@tuta.io"><img alt="Tutanota" src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white"></a>
